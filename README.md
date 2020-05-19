@@ -16,13 +16,13 @@ gnuplot if you want to draw graphs of improvement over time
 Just run timestables.sh from a shell to play.
 Or copy to /usr/local/bin and copy the .desktop files to the desktop and double click.
 
-# Results
+## Results
 
 Results are displayed to the user at the end of each test.
 Results are logged in ~/.timestables.txt
 
 You can graph the results over time using the included timestables_gnuplot.sh - invoke it with the results file as an argument - it will display the graph using gnuplot.
 
-# Copyright
+## Copyright
 
 Use it as you like, don't claim you wrote it, remember me when you are rich and famous!
