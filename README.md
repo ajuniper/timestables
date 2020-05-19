@@ -32,7 +32,9 @@ Or run the script directly using ./timestables.sh with the following arguments:
 Results are displayed to the user at the end of each test.
 Results are logged in ~/.timestables.txt
 
-You can graph the results over time using the included timestables_gnuplot.sh - invoke it with the results file as an argument - it will display the graph using gnuplot.
+You can graph the results over time using the included timestables_gnuplot.sh - invoke it with the results file as an argument - it will display the graph using gnuplot.  Time to answer the questions is on the vertical axis, blob size shows number of wrong answers.
+
+![Time taken](timestables.png)
 
 ## Copyright
 
