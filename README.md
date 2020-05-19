@@ -16,6 +16,17 @@ gnuplot if you want to draw graphs of improvement over time
 Just run timestables.sh from a shell to play.
 Or copy to /usr/local/bin and copy the .desktop files to the desktop and double click.
 
+## Running
+
+Double click on one of the desktop files if you are using a graphical environment.
+Or run the script directly using ./timestables.sh with the following arguments:
+
+-l = use local console instead of starting new terminal window
+-s = width of times table, default up to 12x
+-o = type of table, divide/times/add/subtract/mixed/rounding
+-f = font size
+-r = repeat until answer is correct, without will just show correct/incorrect count at end
+
 ## Results
 
 Results are displayed to the user at the end of each test.
