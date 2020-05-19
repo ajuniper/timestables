@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/local/bin/timestables.sh -o rounding 12
+Icon=/usr/share/pixmaps/squeak.png
+Terminal=false
+Name=Rounding numbers to nearest 1000
+Comment=Practise rounding numbers to nearest 1000
+Categories=Application;Education;Development;

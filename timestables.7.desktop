@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/local/bin/timestables.sh -r 7
+Icon=/usr/share/pixmaps/squeak.png
+Terminal=false
+Name=7 Times Tables
+Comment=Practise times tables
+Categories=Application;Education;Development;
